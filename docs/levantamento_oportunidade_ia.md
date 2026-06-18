@@ -14,7 +14,19 @@ Gestão de Reclamações / Qualidade *(preencher com o nome exato da área)*
 ---
 
 **4. Resumo Executivo do Projeto:**
-Desenvolvimento de um ecossistema multiagente de Inteligência Artificial capaz de automatizar o ciclo completo de gestão de reclamações — da triagem e classificação automática à geração de planos de ação corretivos e preventivos orientados por dados. O sistema operará com supervisão humana estratégica, permitindo que os analistas atuem como gestores de qualidade em vez de executores de tarefas operacionais repetitivas.
+O projeto propõe a construção de um ecossistema inteligente e integrado de agentes de Inteligência Artificial voltado à transformação completa da gestão de reclamações — abrangendo desde a captura automatizada de manifestações em múltiplos canais até a geração de planos de ação corretivos e preventivos fundamentados em dados históricos, padrões comportamentais e correlações operacionais.
+
+Com um volume de aproximadamente 7.000 reclamações mensais gerenciadas hoje por apenas 3 analistas, a operação atual opera no limite de sua capacidade, com cobertura restrita, resposta reativa e elevada dependência de conhecimento individual. O ecossistema proposto rompe esse paradigma ao introduzir cinco camadas funcionais de inteligência — ingestão e normalização de dados, triagem e classificação automática, análise profunda de causa-raiz, geração estruturada de planos de ação e monitoramento contínuo com aprendizado adaptativo —, operando de forma integrada e ininterrupta, 24 horas por dia, 7 dias por semana.
+
+**Abrangência:** o sistema é projetado para cobrir 100% das reclamações recebidas, independentemente do canal de origem, do sintoma identificado ou do volume diário — eliminando o gargalo de capacidade humana como limitador de escala. Sua arquitetura modular permite expansão progressiva para novos sintomas, áreas e canais sem redesenho estrutural.
+
+**Eficiência operacional:** tarefas que hoje consomem horas de trabalho analítico — triagem, categorização, pesquisa histórica, elaboração de planos — passam a ser executadas em segundos pela IA, com padronização e rastreabilidade completa. Os analistas são liberados das atividades operacionais e repositados em funções estratégicas de validação, supervisão de qualidade e decisão em casos de alta complexidade.
+
+**Capacidade preditiva:** diferentemente de sistemas reativos, o ecossistema incorpora modelos de detecção de surtos e alertas preditivos, identificando concentrações anômalas de reclamações no momento em que surgem — antes que se transformem em crises de qualidade, impactos regulatórios ou danos à reputação da empresa.
+
+**Aprendizado contínuo:** cada interação dos analistas com os planos gerados pela IA — aprovações, ajustes e correções — retroalimenta o sistema, elevando progressivamente a precisão dos modelos e consolidando o conhecimento institucional da equipe em ativo organizacional permanente, não mais dependente de pessoas específicas.
+
+O resultado esperado é uma área de reclamações que deixa de ser um centro de custo reativo para se tornar um motor de inteligência de qualidade — capaz de antecipar falhas, aprender com o histórico e orientar decisões corretivas com velocidade e consistência inéditas para o negócio.
 
 **5. Resumo Executivo do Processo Atual:**
 A área recebe aproximadamente 7.000 reclamações por mês, gerenciadas manualmente por 3 analistas responsáveis pelos 3 principais sintomas. O processo é inteiramente reativo: triagem, análise de causa-raiz e criação de planos de ação são feitos de forma manual, ad hoc e sem padronização baseada em dados. A capacidade da equipe limita a cobertura, a velocidade de resposta e a identificação proativa de surtos ou tendências emergentes.
